@@ -9,4 +9,10 @@ I also use Miro for sketching of my ideas and algorithms, and mySql for database
 
 This profile is where i commit my personal projects and academic projets from college, all of them based in knowledge which i search and practice everyday. 
 
-## a
+## 
+
+Tools & Technology 
+- Java, Spring boot
+- Angular
+- MySQL
+- Python
