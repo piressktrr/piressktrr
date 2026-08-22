@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
     </a>
     <a href="mailto:pedropires1505@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"> <p> @pedropires1505@gmail.com</p>
+      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email" pedropires1505@gmail.com>
     </a>
   </div>
 </div>
