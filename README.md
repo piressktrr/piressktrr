@@ -2,7 +2,8 @@
   <h1>Olá, eu sou o Pedro! 👋</h1>
   <h3>Desenvolvedor Java Backend</h3>
   
-  <p>Sou apaixonado por resolver problemas complexos e construir aplicações escaláveis. Atualmente, meu foco principal é no ecossistema Java, desenvolvendo <b>APIs RESTful</b> eficientes, estruturando bancos de dados relacionais e aplicando boas práticas de Engenharia de Software.</p>
+  <p>Desenvolvedor em formação na Faculdade de Tecnologia de São Paulo (FATEC-Sp) com foco em resolver problemas complexos e construir aplicações escaláveis.
+  Atualmente, meu foco principal é no ecossistema Java, desenvolvendo <b>APIs RESTful</b> eficientes, estruturando bancos de dados relacionais e aplicando boas práticas de Engenharia de Software.</p>
   
   <br>
 
@@ -37,11 +38,3 @@
 
 ---
 
-<div align="center">
-  <h2>📊 Minhas Estatísticas</h2>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piressktrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Pedro" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piressktrr&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
