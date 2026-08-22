@@ -3,6 +3,7 @@
   <h3>Desenvolvedor Java Backend</h3>
   
   <p>Desenvolvedor em formação na Faculdade de Tecnologia de São Paulo (FATEC-Sp) com foco em resolver problemas complexos e construir aplicações escaláveis.
+  
   Atualmente, meu foco principal é no ecossistema Java, desenvolvendo <b>APIs RESTful</b> eficientes, estruturando bancos de dados relacionais e aplicando boas práticas de Engenharia de Software.</p>
   
   <br>
